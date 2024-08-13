@@ -13,3 +13,8 @@ This file contains a function that adds two numbers together
 ## Things to lookout for
 - If the function used more complex logic, it would likely be better to assign the return value to a variable initial to separate concerns.
 
+```
+function addNumbers(x, y) {
+  return x + y;
+}
+```
