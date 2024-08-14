@@ -1,0 +1,5 @@
+{
+    "explorer.expandSingleFolderWorkspaces": true,
+    "files.autoSaveWorkspaceFilesOnly": false,
+    "explorer.compactFolders": false
+}
