@@ -1,7 +1,12 @@
+# Introduction
+
 Every module in this application has an MD file that explains what is happening and my thought process. 
 
 
 If you're looking to disable or hide empty folders in the VS Code file explorer view, it's important to note that VS Code does not have a native feature to automatically hide empty folders directly in the file explorer. However, you can manage your workspace and file visibility in a few alternative ways:
+
+
+![alt text](image.png)
 1. Using Workspace Settings
 
 While you can't hide empty folders specifically, you can configure VS Code to exclude certain folders from being displayed. This requires manually specifying which folders to hide, not automatically hiding empty ones.
